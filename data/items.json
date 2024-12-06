@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "category":1,
+        "price":139.99,
+        "title":"rug",
+        "published":true
+     },
+     {
+        "id":2,
+        "category":1,
+        "price":799.99,
+        "title":"dining table",
+        "published":true
+     },
+    {
+       "id":3,
+       "category":2,
+       "price":439.99,
+       "title":"PS5",
+       "published":true
+    },
+    {
+       "id":4,
+       "category":2,
+       "price":459.99,
+       "title":"XBOX",
+       "published":true
+    },
+    {
+       "id":5,
+       "category":3,
+       "price":3999.99,
+       "title":"Gaming PC, 4090, i9 14900k 64gb ddr5 trident z royal, 2td samsung nvme ssd",
+       "published":true
+    },
+    {
+       "id":6,
+       "category":3,
+       "price":39.99,
+       "title":"Dog chair",
+       "published":true
+    },
+    {
+       "id":7,
+       "category":3,
+       "price":379.99,
+       "title":"Gaming Chair",
+       "published":true
+    },
+    {
+       "id":8,
+       "category":4,
+       "price":64.99,
+       "title":"Soccer Ball",
+       "published":true
+    },
+    {
+       "id":9,
+       "category":6,
+       "price":6.99,
+       "title":"Car air freshner (fresh barbershop)",
+       "published":true
+    },
+    {
+       "id":10,
+       "category":5,
+       "price":9.99,
+       "title":"Small Adult Breed Dog Food",
+       "published":true
+    }
+ ] 

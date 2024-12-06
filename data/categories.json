@@ -1,0 +1,26 @@
+[
+    {
+       "id":1,
+       "category":"Home"
+    },
+    {
+       "id":2,
+       "category":"Electronics"
+    },
+    {
+       "id":3,
+       "category":"Chairs"
+    },
+    {
+       "id":4,
+       "category":"Sports"
+    },
+    {
+       "id":5,
+       "category":"Pets"
+    },
+    {
+        "id":6,
+        "category":"Car Accessories"
+    }
+ ]
